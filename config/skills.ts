@@ -45,12 +45,10 @@ import { IoLogoPwa } from 'react-icons/io5'
 export type SkillCategory =
   | 'backend'
   | 'frontend'
-  | 'cicd'
   | 'database'
   | 'ui frameworks'
   | 'productivity boost'
   | 'mobile'
-  | 'games'
   | 'desktop'
 
 export type Skill = {
